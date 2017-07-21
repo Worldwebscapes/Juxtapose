@@ -8,7 +8,7 @@
   Author URI:   http://www.pagelines.com
   Demo:         true
 
-  Version:      5.0.0
+  Version:      5.0.1
 
   PageLines:    PL_Juxtapose_Section
   Filter:       component
