@@ -1,3 +1,2 @@
-PageLines Compare allows you to demonstrate difference between original vs new image easily and effectively.
-
-Customize the appearance via color selector and update image captions on the fly. 
+Plugin Name:  PageLines Section Juxtapose
+  Description:  A product section for comparing two products or services next to each other with a before/after slider, descriptions, and pricing options.
