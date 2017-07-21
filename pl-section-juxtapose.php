@@ -2,10 +2,9 @@
 /*
 
   Plugin Name:  PageLines Section Juxtapose
-  Description:  A product section for comparing two products or services next to each other with a before/after slider with descriptions and pricing options.
+  Description:  A product section for comparing two products or services next to each other with a before/after slider, descriptions, and pricing options.
 
-  Author:       PageLines Mod By World Webscapes
-  Author URI:   http://www.pagelines.com
+  Author:       World Webscapes PageLines Mods
   Demo:         true
 
   Version:      5.0.9
