@@ -7,7 +7,7 @@
   Author:       World Webscapes PageLines Mods
   Demo:         true
 
-  Version:      5.2
+  Version:      5.2.1
 
   PageLines:    PL_Juxtapose_Section
   Filter:       component
