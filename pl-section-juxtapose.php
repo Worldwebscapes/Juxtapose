@@ -7,7 +7,7 @@
   Author:       World Webscapes PageLines Mods
   Demo:         true
 
-  Version:      5.0.9
+  Version:      5.1
 
   PageLines:    PL_Juxtapose_Section
   Filter:       component
@@ -312,6 +312,7 @@ class PL_Juxtapose_Section extends PL_Section {
 	<div class="h4 pl-alignment-center" style="padding-left:.5em; padding-right:.5em; padding-bottom:1em;" data-bind="pltext: subtext"></div>
 	</div>
 	</div>
+	
 	<div class="pl-col-sm-5"><div class="wrap" ><figure class="plc-image-container">
        <div data-bind="style: { 'background-color': caption_background }, plclassname: [image_scheme() ],">
         <img src="" data-bind="plimg: plc_image_after, attr: {'alt': plc_image_after_text }" alt="" />
